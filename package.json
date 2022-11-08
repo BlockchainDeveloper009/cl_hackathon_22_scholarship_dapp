@@ -1,0 +1,20 @@
+{
+  "name": "cl_hackathon_22_scholarship_dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockchainDeveloper009/cl_hackathon_22_scholarship_dapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockchainDeveloper009/cl_hackathon_22_scholarship_dapp/issues"
+  },
+  "homepage": "https://github.com/BlockchainDeveloper009/cl_hackathon_22_scholarship_dapp#readme"
+}
