@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 8px;
+}
