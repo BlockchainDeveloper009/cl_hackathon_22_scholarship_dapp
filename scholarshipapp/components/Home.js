@@ -1,6 +1,6 @@
-export const Contact = () => {
+export const Home = () => {
     return (
-        <div><h2>Contact - cl - team 22</h2></div>
+        <div><Link href='/'>Home</Link></div>
 
     )
 }

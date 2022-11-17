@@ -24,3 +24,11 @@ a {
     background: black;
   }
 }
+.button {
+  transition: all 0.2s linear;
+}
+
+.button:hover {
+  color: white;
+  background: var(--linear-gradient-low-transparency);
+}
