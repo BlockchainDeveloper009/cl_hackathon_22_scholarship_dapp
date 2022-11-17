@@ -24,6 +24,7 @@ a {
     background: black;
   }
 }
+<<<<<<< HEAD
 .button {
   transition: all 0.2s linear;
 }
@@ -31,4 +32,14 @@ a {
 .button:hover {
   color: white;
   background: var(--linear-gradient-low-transparency);
+=======
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 8px;
+>>>>>>> 7ea064001a66e3722fabd458b8b05fe1f40453f3
 }
